@@ -1,1 +1,22 @@
-Hello
+Project Features
+
+Login Page - This page helps to secure the project data and also to helps to manage users' access.
+Home Page - This page is the welcoming page or the page where the user is redirected after logging in to the system. On this page also, quizzes summary can be seen.
+Student Page - At this. page, both faculty, and administrator can manage this page. This is where student data are listed and being managed.
+Quiz List for Student - This page where student quizzes are listed.
+Answer Sheet Page - This is the page where the student will answer their quiz.
+Quiz Record Page - On this page, admin and faculty can see the records of the students each quiz
+
+
+How to Install
+Download the source code and extract the zip file.
+Download or set up any local web server that runs a PHP script.
+Open web server database and create a new database name it quiz_db.
+Import the SQL file located in the database folder of the source code.
+Copy and paste the source code to the location where your local web server accessing your local projects. example for XAMPP('C:\xampp\htdocs')
+Open a web browser and browse the project. e.g [ http://localhost/online-quiz-system ]
+
+
+Admin Access
+Username: admin
+Password: admin123
